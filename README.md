@@ -1,4 +1,4 @@
-# NLW eSports
+# NLW eSports Extra
 
 > Trilha Explorer(Codigo Extra)
 
