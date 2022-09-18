@@ -4,7 +4,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto construído no evento NLW(Next Level Week) da Rocketseat.
 Codigo extra requerido no final do evento.
 
 [🔗 Clique aqui para acessar.](https://joao7001.github.io/nlw-esports-extra)
